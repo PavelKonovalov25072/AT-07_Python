@@ -10,7 +10,10 @@
 <p><img src = "oldfilter.png"></p>
 <p><img src = "filter.png"></p>
 <p><img src = "filter_with_filename.png"></p>
-<p><img src = "img2.jpg">
-<p><img src = "res1.jpg">
-<p><img src = "res2.jpg">
-<p><img src = "res.jpg">
+<p><img src = "img2.jpg"></p>
+<p><img src = "res1.jpg"></p>
+Результат выполнения oldfilter.py
+<p><img src = "res2.jpg"></p>
+Результат выполнения filter_with_filename.py
+<p><img src = "res.jpg"></p>
+Результат выполнения filter.py
