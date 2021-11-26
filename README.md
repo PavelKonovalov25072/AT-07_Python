@@ -3,3 +3,4 @@
 <p><img src = "oldfilter.png"></p>
 <p><img src = "filter.png"></p>
 <p><img src = "filter_with_filename.png"></p>
+<p><img src = "img2.jpg">
