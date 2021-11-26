@@ -4,8 +4,8 @@
 которое тратится на ввод данных</p>
 <p>А filter_with_filename.py выполняется быстрее чем oldfilter.py, так как вместо</br> 
 ручных циклов используются матричные преобразования такие как</p>
-<p>`img_pixels[height: RightHeight, width: RightWidth] = \
-        [averageCol // Grey * Grey] * 3`
+<p>```img_pixels[height: RightHeight, width: RightWidth] = \
+        [averageCol // Grey * Grey] * 3```
 <p><img src = "oldfilter.png"></p>
 <p><img src = "filter.png"></p>
 <p><img src = "filter_with_filename.png"></p>
