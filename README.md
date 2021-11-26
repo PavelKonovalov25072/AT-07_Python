@@ -4,4 +4,4 @@
 а также возможность выставить вручную градацию серого и размер мозаики,<br/> 
 большинство циклов заменено матричными преобразованиями<br/>
 Взяв произвольную картинку, например ту, что я добавил в репозиторий<br/>
-![alt text](https://github.com/PavelKonovalov25072/AT-07_Python/blob/main/Siegmeyer of Catarina.jpg?raw=true)
+![Image](Siegmeyer of Catarina.jpg)
